@@ -4,7 +4,9 @@ A solution for play.elevatorsaga.com
 Note: It doesn't work very well.
 
 Current success:
+
 Level | Result
+---|---
 1 | Success
 2 | Success
 3 | Success
